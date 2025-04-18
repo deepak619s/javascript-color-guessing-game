@@ -28,4 +28,4 @@
 
 ## Link 
 
-[https://deepak-javascript-quiz-app.netlify.app/](https://deepak-javascript-color-guessing-game-n6svrsqh5.vercel.app/)
+https://deepak-javascript-color-guessing-game-n6svrsqh5.vercel.app/
